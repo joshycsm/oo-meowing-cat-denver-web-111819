@@ -8,8 +8,8 @@ class Cat
   end
 end 
 
-maru = Cat.new 
-maru.name = "Maru"
-maru.name
+p maru = Cat.new 
+p maru.name = "Maru"
+p maru.name
 
-maru.meow
+p maru.meow
