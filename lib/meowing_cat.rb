@@ -11,4 +11,4 @@ end
 p maru = Cat.new 
 p maru.name = "Maru"
 p maru.name
-# p maru.meow
+p maru.meow
